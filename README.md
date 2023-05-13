@@ -3,6 +3,7 @@
 ### Ferramentas usadas:
 
 - Python 3.9.13 do Anaconda (https://www.anaconda.com/download/)
+- Pycharm Community Edition 2022.3.3 (https://www.jetbrains.com/pycharm/)
 - Face-recognition 1.3 (https://pypi.org/project/face-recognition/)
 - OpenCV-Python 4.7 (https://docs.opencv.org/4.7.0/)
 
